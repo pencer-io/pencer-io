@@ -13,9 +13,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Walk-through of Noter from HackTheBox](https://pencer.io/ctf/ctf-htb-noter-protected/)
+- [Walk-through of Nunchucks from HackTheBox](https://pencer.io/ctf/ctf-htb-nunchucks/)
 - [Walk-through of Unicode from HackTheBox](https://pencer.io/ctf/ctf-htb-unicode/)
 - [Walk-through of Backdoor from HackTheBox](https://pencer.io/ctf/ctf-htb-backdoor/)
 - [Walk-through of Shibboleth from HackTheBox](https://pencer.io/ctf/ctf-htb-shibboleth/)
-- [Walk-through of Secret from HackTheBox](https://pencer.io/ctf/ctf-htb-secret/)
-- [Walk-through of Devzat from HackTheBox](https://pencer.io/ctf/ctf-htb-devzat/)
 <!-- BLOG-POST-LIST:END -->
