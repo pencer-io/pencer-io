@@ -13,9 +13,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Walk-through of AdmirerToo from HackTheBox](https://pencer.io/ctf/ctf-htb-admirertoo/)
 - [Walk-through of Timing from HackTheBox](https://pencer.io/ctf/ctf-htb-timing/)
 - [Walk-through of OpenSource from HackTheBox](https://pencer.io/ctf/ctf-htb-opensource-protected/)
 - [Walk-through of Pandora from HackTheBox](https://pencer.io/ctf/ctf-htb-pandora/)
 - [Walk-through of Noter from HackTheBox](https://pencer.io/ctf/ctf-htb-noter-protected/)
-- [Walk-through of Nunchucks from HackTheBox](https://pencer.io/ctf/ctf-htb-nunchucks/)
 <!-- BLOG-POST-LIST:END -->
