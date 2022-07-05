@@ -13,9 +13,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Walk-through of Undetected from HackTheBox](https://pencer.io/ctf/ctf-htb-undetected/)
 - [Walk-through of Retired from HackTheBox](https://pencer.io/ctf/ctf-htb-retired-protected/)
 - [Walk-through of Paper from HackTheBox](https://pencer.io/ctf/ctf-htb-paper/)
 - [Walk-through of Meta from HackTheBox](https://pencer.io/ctf/ctf-htb-meta/)
 - [Walk-through of AdmirerToo from HackTheBox](https://pencer.io/ctf/ctf-htb-admirertoo/)
-- [Walk-through of Timing from HackTheBox](https://pencer.io/ctf/ctf-htb-timing/)
 <!-- BLOG-POST-LIST:END -->
