@@ -13,9 +13,9 @@
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Walk-through of Support from HackTheBox](https://pencer.io/ctf/ctf-htb-support-protected/)
 - [Walk-through of Shared from HackTheBox](https://pencer.io/ctf/ctf-htb-shared-protected/)
 - [Walk-through of Catch from HackTheBox](https://pencer.io/ctf/ctf-htb-catch/)
 - [Walk-through of Faculty from HackTheBox](https://pencer.io/ctf/ctf-htb-faculty-protected/)
 - [Walk-through of RedPanda from HackTheBox](https://pencer.io/ctf/ctf-htb-redpanda-protected/)
-- [Walk-through of Scrambled from HackTheBox](https://pencer.io/ctf/ctf-htb-scrambled-protected/)
 <!-- BLOG-POST-LIST:END -->
